@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @xie-andy
-- 👀 I’m interested in learning about coding
-- 🌱 I’m currently learning Javascript, Node.js and plan to learn C++
-- 💞️ I’m looking to collaborate on projects to help people at my school
-- 📫 How to reach me: Send me an email at andy.xie@cgs.act.edu.au
+- 👋 Hi, I’m Andy Xie
+- 🏫 I’m currently studying a Bachelor of Advanced Computing at USYD, Majoring in Computer Science and Minoring in Cyber Security
+- 📚 I’m currently working on a number of private personal projects - please contact me if you'd like to learn more.
+- 📫 How to reach me: Send me an email at andysxie@outlook.com
 
 <!---
 xie-andy/xie-andy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
