@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Andy Xie
 - 🏫 I’m currently studying a Bachelor of Advanced Computing at USYD, Majoring in Computer Science and Minoring in Cyber Security
-- 📚 I’m currently working on a number of private personal projects - please contact me if you'd like to learn more.
+- 📚 I’m currently working on a number of personal projects in my own private repositories - please contact me if you'd like to learn more.
 - 📫 How to reach me: Send me an email at andysxie@outlook.com
 
 <!---
